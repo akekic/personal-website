@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Applied Scientist
+    company: Zalando SE
+    company_url: 'https://engineering.zalando.com/'
+    location: Berlin, Germany
+    date_start: '2018-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Development of high-dimensional time series models based on deep neural networks that are used for algorithmic price optimisation.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Researcher
+    company: University of Heidelberg
+    company_url: 'https://www.physi.uni-heidelberg.de/Forschung/QD/'
+    location: Heidelberg, Germany
+    date_start: '2017-03-01'
+    date_end: '2018-01-31'
+    description: Research on spectroscopic networks.
+  
+  - title: Research Intern
+    company: Centre for Quantum Technologies
+    company_url: 'https://www.quantumlah.org/'
+    location: Singapore
+    date_start: '2014-07-01'
+    date_end: '2014-09-30'
+    description: Design of an optical set-up for Rydberg-atom imaging using electromagnetically induced transparency.
 ---
