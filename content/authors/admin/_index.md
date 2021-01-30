@@ -68,6 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a mathematician and physicist working as an applied scientist at [Zalando](https://engineering.zalando.com/) where I develop sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects that I work on.
+I'm a mathematician and physicist working as an applied scientist at [Zalando](https://engineering.zalando.com/) where I develop sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects I work on.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
