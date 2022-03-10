@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: Max Planck Institute for Intelligent Systems
+    company_url: 'https://is.mpg.de/'
+    location: Tübingen, Germany
+    date_start: '2021-09-15'
+    date_end: ''
+    description: |2-
+        Working on Causality and Machine Learning.
+
   - title: Applied Scientist
     company: Zalando SE
     company_url: 'https://engineering.zalando.com/'
     location: Berlin, Germany
     date_start: '2018-02-01'
-    date_end: ''
+    date_end: '2021-08-31'
     description: |2-
         Development of high-dimensional time series models based on deep neural networks that are used for algorithmic price optimisation.
         

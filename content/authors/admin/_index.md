@@ -6,12 +6,12 @@ title: Armin Kekić
 superuser: true
 
 # Role/position/tagline
-role: Applied Scientist
+role: PhD Student in Causality and Machine Learning
 
 # Organizations/Affiliations to show in About widget
 <!-- organizations:
-- name: Zalando SE
-  url: https://engineering.zalando.com/ -->
+- name: Max Planck Institute for Intelligent Systems
+  url: https://is.mpg.de/ -->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include high-dimensional time series forecasting, machine learning, network science and quantum dynamics.
@@ -19,9 +19,9 @@ bio: My interests include high-dimensional time series forecasting, machine lear
 # Interests to show in About widget
 interests:
 - Machine Learning
+- Causality
 - Time Series Forecasting
 - Network Science
-- Quantum Dynamics
 
 # Education to show in About widget
 education:
@@ -68,6 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a mathematician and physicist working as an applied scientist at [Zalando](https://engineering.zalando.com/) where I develop sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects I work on.
+I'm a PhD Student at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) working on causality and machine learning. Previously I worked as an applied scientist at [Zalando](https://engineering.zalando.com/) developing sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects I work on.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
