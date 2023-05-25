@@ -5,13 +5,13 @@ title: "On the DCI Framework for Evaluating Disentangled Representations: Extens
 authors: 
   - Cian Eastwood
   - Andrei Liviu Nicolicioiu
-  - Julius Von Kügelgen
+  - Julius von Kügelgen
   - admin
   - Frederik Träuble
   - Andrea Dittadi
   - Bernhard Schölkopf
 date: 2022-08-16T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2202.04342"
+doi: "https://doi.org/10.48550/arXiv.2210.00364"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-20T12:01:22+01:00
@@ -23,10 +23,10 @@ publishDate: 2022-08-20T12:01:22+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "UAI 2022 Workshop on Causal Representation Learning"
-publication_short: "UAI CRL 2022"
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: "In representation learning, a common approach is to seek representations which disentangle the underlying factors of variation. Eastwood and Williams (2018) proposed three metrics for quantifying the quality of such disentangled representations: disentanglement (D), completeness (C) and informativeness (I). We provide several extensions of this DCI framework by considering the functional capacity required to use a representation. In particular, we establish links to identifiability, point out how D and C can be computed for black-box predictors, and introduce two new measures of representation quality: explicitness (E), derived from a representation’s loss-capacity curve, and size (S) relative to the ground truth. We illustrate the relevance of our extensions on the MPI3D-Real dataset."
+abstract: "In representation learning, a common approach is to seek representations which disentangle the underlying factors of variation. Eastwood & Williams (2018) proposed three metrics for quantifying the quality of such disentangled representations: disentanglement (D), completeness (C) and informativeness (I). In this work, we first connect this DCI framework to two common notions of linear and nonlinear identifiability, thereby establishing a formal link between disentanglement and the closely-related field of independent component analysis. We then propose an extended DCI-ES framework with two new measures of representation quality - explicitness (E) and size (S) - and point out how D and C can be computed for black-box predictors. Our main idea is that the functional capacity required to use a representation is an important but thus-far neglected aspect of representation quality, which we quantify using explicitness or ease-of-use (E). We illustrate the relevance of our extensions on the MPI3D and Cars3D datasets."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://openreview.net/pdf?id=KiMUlK8GNG5"
+url_pdf: "https://arxiv.org/pdf/2210.00364.pdf"
 url_code:
 url_dataset:
 url_poster:
