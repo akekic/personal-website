@@ -1,25 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Network Approach to Atomic Spectra"
+title: "Deep Learning based Forecasting: a case study from the online fashion industry"
 authors: 
-  - David Wellnitz
+  - Manuel Kunz
+  - Stefan Birr
+  - Mones Raslan
+  - Lei Ma
+  - Zhen Li
+  - Adele Gouttes
+  - Mateusz Koren
+  - Tofigh Naghibi
+  - Johannes Stephan
+  - Mariia Bulycheva
+  - Matthias Grzeschik
   - admin
-  - Julian Heiss
-  - Michael Gertz
-  - Matthias Weidemüller
-  - Andreas Spitz
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: 2022-02-10T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2202.04342"
+  - Michael Narodovitch
+  - Kashif Rasul
+  - Julian Sieber
+  - Tim Januschowski
+date: 2023-05-23T12:00:00+01:00
+doi: "https://doi.org/10.48550/arXiv.2305.14406"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-20T12:01:22+01:00
+publishDate: 2023-05-25T12:01:22+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +35,7 @@ publication_types: ["3"]
 publication: "arXiv"
 publication_short: "arXiv"
 
-abstract: "Network science provides a universal framework for modeling complex systems, contrasting the reductionist approach generally adopted in physics. In a prototypical study, we utilize network models created from spectroscopic data of atoms to predict microscopic properties of the underlying physical system. For simple atoms such as helium, an a posteriori inspection of spectroscopic network communities reveals the emergence of quantum numbers and symmetries. For more complex atoms such as thorium, finer network hierarchies suggest additional microscopic symmetries or configurations. Link prediction yields a quantitative ranking of yet unknown atomic transitions, offering opportunities to discover new spectral lines in a well-controlled manner. Our work promotes a genuine bi-directional exchange of methodology between network science and physics, and presents new perspectives for the study of atomic spectra."
+abstract: "Demand forecasting in the online fashion industry is particularly amendable to global, data-driven forecasting models because of the industry's set of particular challenges. These include the volume of data, the irregularity, the high amount of turn-over in the catalog and the fixed inventory assumption. While standard deep learning forecasting approaches cater for many of these, the fixed inventory assumption requires a special treatment via controlling the relationship between price and demand closely. In this case study, we describe the data and our modelling approach for this forecasting problem in detail and present empirical results that highlight the effectiveness of our approach."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -48,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2202.04342.pdf"
+url_pdf: "https://arxiv.org/pdf/2305.14406.pdf"
 url_code:
 url_dataset:
 url_poster:

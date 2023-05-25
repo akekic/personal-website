@@ -10,11 +10,19 @@ authors:
   - Frederik Träuble
   - Andrea Dittadi
   - Bernhard Schölkopf
-date: 2022-08-16T12:00:00+01:00
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+
+date: 2023-05-01T12:00:00+01:00
 doi: "https://doi.org/10.48550/arXiv.2210.00364"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-20T12:01:22+01:00
+publishDate: 2023-05-25T12:01:22+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,8 +31,8 @@ publishDate: 2022-08-20T12:01:22+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv"
+publication: "International Conference on Learning Representations"
+publication_short: "ICLR"
 
 abstract: "In representation learning, a common approach is to seek representations which disentangle the underlying factors of variation. Eastwood & Williams (2018) proposed three metrics for quantifying the quality of such disentangled representations: disentanglement (D), completeness (C) and informativeness (I). In this work, we first connect this DCI framework to two common notions of linear and nonlinear identifiability, thereby establishing a formal link between disentanglement and the closely-related field of independent component analysis. We then propose an extended DCI-ES framework with two new measures of representation quality - explicitness (E) and size (S) - and point out how D and C can be computed for black-box predictors. Our main idea is that the functional capacity required to use a representation is an important but thus-far neglected aspect of representation quality, which we quantify using explicitness or ease-of-use (E). We illustrate the relevance of our extensions on the MPI3D and Cars3D datasets."
 
@@ -44,7 +52,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/pdf/2210.00364.pdf"
-url_code:
+url_code: "https://github.com/andreinicolicioiu/DCI-ES"
 url_dataset:
 url_poster:
 url_project:

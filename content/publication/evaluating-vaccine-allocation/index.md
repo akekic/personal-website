@@ -9,6 +9,15 @@ authors:
   - Julius von Kügelgen
   - Viola Priesemann
   - Bernhard Schölkopf
+
+# Author notes (optional)
+author_notes:
+  -
+  -
+  -
+  -
+  - 'Joint supervision'
+  - 'Joint supervision'
 date: 2023-06-09T12:00:00+01:00
 doi: "https://doi.org/10.1016/j.patter.2023.100739"
 
