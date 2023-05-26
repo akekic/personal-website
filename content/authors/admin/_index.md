@@ -68,6 +68,15 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD Student at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) working on causality and machine learning. Previously I worked as an applied scientist at [Zalando](https://engineering.zalando.com/) developing sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects I work on.
+<!-- I'm a PhD Student at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) working on causality and machine learning. Previously I worked as an applied scientist at [Zalando](https://engineering.zalando.com/) developing sales forecasting models that are used for algorithmic price optimisation. On this website I write about things that I find interesting and projects I work on. -->
+
+
+I'm a PhD Student at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), specializing in integrating causal inference and reasoning into machine learning algorithms.
+
+My academic background includes studies in physics and applied mathematics at Heidelberg, Oxford, and Paris, with a specific focus on {{< staticref "publication/bachelors-thesis/" "newtab" >}}theoretical quantum dynamics{{< /staticref >}} and {{< staticref "publication/masters-thesis-paper/" "newtab" >}}simulation methods{{< /staticref >}}.
+
+Prior to my PhD, I worked as an applied scientist at [Zalando](https://engineering.zalando.com/), where I contributed to the development of {{< staticref "publication/deep-learning-based/" "newtab" >}}machine-learning-based demand forecast models{{< /staticref >}} for price optimization.
+
+On this website, I share projects that I work on.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
