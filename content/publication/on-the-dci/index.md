@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "On the DCI Framework for Evaluating Disentangled Representations: Extensions and Connections to Identifiability"
+title: "DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability"
 authors: 
   - Cian Eastwood
   - Andrei Liviu Nicolicioiu
@@ -45,13 +45,17 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Thread
+  url: https://twitter.com/CianEastwood/status/1647950283916320770?s=20
+  icon_pack: fab
+  icon: twitter
+- name: arXiv
+  url: https://arxiv.org/abs/2210.00364
+  icon_pack: ai
+  icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2210.00364.pdf"
+url_pdf: "https://openreview.net/pdf?id=462z-gLgSht"
 url_code: "https://github.com/andreinicolicioiu/DCI-ES"
 url_dataset:
 url_poster:

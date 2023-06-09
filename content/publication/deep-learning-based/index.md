@@ -46,11 +46,15 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+links:
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+- name: arXiv
+  url: https://arxiv.org/abs/2305.14406
+  icon_pack: ai
+  icon: arxiv
 
 url_pdf: "https://arxiv.org/pdf/2305.14406.pdf"
 url_code:

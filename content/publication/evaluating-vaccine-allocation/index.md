@@ -53,11 +53,15 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Thread
+  url: https://twitter.com/armin_kekic/status/1604823985635500033?s=20
+  icon_pack: fab
+  icon: twitter
+- name: arXiv
+  url: https://arxiv.org/abs/2212.08498
+  icon_pack: ai
+  icon: arxiv
 
 url_pdf: "https://www.cell.com/patterns/pdf/S2666-3899(23)00079-X.pdf"
 url_code: "https://github.com/akekic/covid-vaccine-evaluation"
