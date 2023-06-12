@@ -47,10 +47,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+- name: Thread
+  url: https://twitter.com/armin_kekic/status/1667181047480479751?s=20
+  icon_pack: fab
+  icon: twitter
 - name: arXiv
   url: https://arxiv.org/abs/2305.14406
   icon_pack: ai
