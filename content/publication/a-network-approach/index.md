@@ -15,23 +15,23 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: 2022-02-10T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2202.04342"
+date: 2023-07-06T12:00:00+01:00
+doi: "https://doi.org/10.1088/2632-072X/ace1c3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-20T12:01:22+01:00
+publishDate: 2022-07-06T12:01:22+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv"
+publication: "Journal of Physics: Complexity"
+publication_short: "J. Phys. Complex"
 
-abstract: "Network science provides a universal framework for modeling complex systems, contrasting the reductionist approach generally adopted in physics. In a prototypical study, we utilize network models created from spectroscopic data of atoms to predict microscopic properties of the underlying physical system. For simple atoms such as helium, an a posteriori inspection of spectroscopic network communities reveals the emergence of quantum numbers and symmetries. For more complex atoms such as thorium, finer network hierarchies suggest additional microscopic symmetries or configurations. Link prediction yields a quantitative ranking of yet unknown atomic transitions, offering opportunities to discover new spectral lines in a well-controlled manner. Our work promotes a genuine bi-directional exchange of methodology between network science and physics, and presents new perspectives for the study of atomic spectra."
+abstract: "Network science provides a universal framework for modeling complex systems, contrasting the reductionist approach generally adopted in physics. In a prototypical study, we utilize network models created from spectroscopic data of atoms to predict microscopic properties of the underlying physical system. For simple atoms such as helium, an a posteriori inspection of spectroscopic network communities reveals the emergence of quantum numbers and symmetries. For more complex atoms such as thorium, finer network hierarchies suggest additional microscopic symmetries or configurations. Furthermore, link prediction in spectroscopic networks yields a quantitative ranking of yet unknown atomic transitions, offering opportunities to discover new spectral lines in a well-controlled manner. Our work promotes a genuine bi-directional exchange of methodology between network science and physics, and presents new perspectives for the study of atomic spectra."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -52,7 +52,7 @@ links:
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2202.04342.pdf"
+url_pdf: "https://iopscience.iop.org/article/10.1088/2632-072X/ace1c3/pdf"
 url_code:
 url_dataset:
 url_poster:
