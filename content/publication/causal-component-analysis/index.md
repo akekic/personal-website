@@ -61,7 +61,7 @@ links:
 url_pdf: "https://arxiv.org/pdf/2305.17225.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: "https://drive.google.com/file/d/1m2Btl7lWcGw5nBPaLpHKOSF0XQZJT_D9/view?usp=drive_link"
 url_project:
 url_slides:
 url_source:
