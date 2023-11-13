@@ -16,7 +16,7 @@ authors:
 author_notes:
   -
 
-date: 2023-06-01T12:00:00+01:00
+date: 2023-09-21T11:00:00+01:00
 doi: "https://doi.org/10.48550/arXiv.2306.00542"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,11 +26,11 @@ publishDate: 2023-06-01T00:01:22+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv"
+publication: "Conference on Neural Information Processing Systems "
+publication_short: "NeurIPS"
 
 abstract: 'We study causal representation learning, the task of inferring latent causal variables and their causal relations from high-dimensional functions ("mixtures") of the variables. Prior work relies on weak supervision, in the form of counterfactual pre- and post-intervention views or temporal structure; places restrictive assumptions, such as linearity, on the mixing function or latent causal model; or requires partial knowledge of the generative process, such as the causal graph or the intervention targets. We instead consider the general setting in which both the causal model and the mixing function are nonparametric. The learning signal takes the form of multiple datasets, or environments, arising from unknown interventions in the underlying causal model. Our goal is to identify both the ground truth latents and their causal graph up to a set of ambiguities which we show to be irresolvable from interventional data. We study the fundamental setting of two causal variables and prove that the observational distribution and one perfect intervention per node suffice for identifiability, subject to a genericity condition. This condition rules out spurious solutions that involve fine-tuning of the intervened and observational distributions, mirroring similar conditions for nonlinear cause-effect inference. For an arbitrary number of variables, we show that two distinct paired perfect interventions per node guarantee identifiability. Further, we demonstrate that the strengths of causal influences among the latent variables are preserved by all equivalent solutions, rendering the inferred representation appropriate for drawing causal conclusions from new data. Our study provides the first identifiability results for the general nonparametric setting with unknown interventions, and elucidates what is possible and impossible for causal representation learning without more direct supervision.'
 
@@ -53,8 +53,8 @@ links:
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2306.00542.pdf"
-url_code:
+url_pdf: "https://openreview.net/pdf?id=V87gZeSOL4"
+url_code: "https://github.com/akekic/causal-component-analysis"
 url_dataset:
 url_poster:
 url_project:
