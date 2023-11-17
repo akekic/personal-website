@@ -58,11 +58,11 @@ links:
 url_pdf: "https://openreview.net/pdf?id=462z-gLgSht"
 url_code: "https://github.com/andreinicolicioiu/DCI-ES"
 url_dataset:
-url_poster:
+url_poster: "https://iclr.cc/media/PosterPDFs/ICLR%202023/11402.png?t=1681738449.552845"
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: "https://iclr.cc/virtual/2023/poster/11402"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
