@@ -52,11 +52,15 @@ links:
   url: https://arxiv.org/abs/2306.00542
   icon_pack: ai
   icon: arxiv
+- name: Thread
+  url: https://x.com/JKugelgen/status/1733870399568392201?s=20
+  icon_pack: fab
+  icon: twitter
 
 url_pdf: "https://openreview.net/pdf?id=V87gZeSOL4"
 url_code: "https://github.com/akekic/causal-component-analysis"
 url_dataset:
-url_poster:
+url_poster: "https://drive.google.com/file/d/1P6e8OpnmeFZ5RbmWPEuLZpgVYWn27Dba/view?usp=sharing"
 url_project:
 url_slides:
 url_source:

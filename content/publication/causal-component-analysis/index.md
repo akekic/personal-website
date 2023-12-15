@@ -65,9 +65,9 @@ links:
 url_pdf: "https://openreview.net/pdf?id=HszLRiHyfO"
 url_code: "https://github.com/akekic/causal-component-analysis"
 url_dataset:
-url_poster: "https://drive.google.com/file/d/1m2Btl7lWcGw5nBPaLpHKOSF0XQZJT_D9/view?usp=drive_link"
+url_poster: "https://drive.google.com/file/d/1V7zenB-PIQ06d5gGqlVgUQ1fSvARpwmP/view?usp=sharing"
 url_project:
-url_slides:
+url_slides: "https://drive.google.com/file/d/12F9HS7mv4Awr-qwCJbW7E50nx1RyYE1O/view?usp=sharing"
 url_source:
 url_video:
 
