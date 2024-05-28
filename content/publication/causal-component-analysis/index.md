@@ -53,6 +53,10 @@ links:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+- name: Talk
+  url: https://slideslive.com/39011534
+  icon_pack: fa
+  icon: video
 - name: arXiv
   url: https://arxiv.org/abs/2305.17225
   icon_pack: ai

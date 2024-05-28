@@ -48,6 +48,14 @@ links:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+- name: Talk (short)
+  url: https://slideslive.com/39011535
+  icon_pack: fa
+  icon: video
+- name: Talk (long)
+  url: https://slideslive.com/39012757
+  icon_pack: fa
+  icon: video
 - name: arXiv
   url: https://arxiv.org/abs/2306.00542
   icon_pack: ai
