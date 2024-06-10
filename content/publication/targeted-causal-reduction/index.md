@@ -13,7 +13,7 @@ authors:
 #   - 'Equal contribution'
 
 date: 2023-11-30T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2311.18639"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-11-30T12:01:22+01:00
@@ -50,9 +50,9 @@ links:
   icon: arxiv
 
 url_pdf: "https://arxiv.org/pdf/2311.18639.pdf"
-url_code:
+url_code: "https://github.com/akekic/targeted-causal-reduction"
 url_dataset:
-url_poster:
+url_poster: "https://drive.google.com/file/d/1N28CAG-qg7PYh6FufrzNmNiVzb7BXhk7"
 url_project:
 url_slides:
 url_source:

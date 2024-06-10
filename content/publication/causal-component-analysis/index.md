@@ -22,7 +22,7 @@ author_notes:
   - 'Shared last author'
 
 date: 2023-09-21T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2305.17225"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-30T00:01:22+01:00
@@ -57,14 +57,14 @@ links:
   url: https://slideslive.com/39011534
   icon_pack: fa
   icon: video
-- name: arXiv
-  url: https://arxiv.org/abs/2305.17225
-  icon_pack: ai
-  icon: arxiv
 - name: Thread
   url: https://x.com/liang_wendong1/status/1723810209884176566?s=20
   icon_pack: fab
   icon: twitter
+- name: arXiv
+  url: https://arxiv.org/abs/2305.17225
+  icon_pack: ai
+  icon: arxiv
 
 url_pdf: "https://openreview.net/pdf?id=HszLRiHyfO"
 url_code: "https://github.com/akekic/causal-component-analysis"

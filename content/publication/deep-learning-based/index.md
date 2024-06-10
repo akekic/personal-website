@@ -20,7 +20,7 @@ authors:
   - Julian Sieber
   - Tim Januschowski
 date: 2023-05-23T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2305.14406"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-25T12:01:22+01:00

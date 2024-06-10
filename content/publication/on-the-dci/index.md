@@ -19,7 +19,7 @@ author_notes:
 
 
 date: 2023-05-01T12:00:00+01:00
-doi: "https://doi.org/10.48550/arXiv.2210.00364"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-25T12:01:22+01:00
@@ -46,6 +46,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Talk
+  url: https://iclr.cc/virtual/2023/poster/11402
+  icon_pack: fa
+  icon: video
 - name: Thread
   url: https://twitter.com/CianEastwood/status/1647950283916320770?s=20
   icon_pack: fab
@@ -62,7 +66,7 @@ url_poster: "https://iclr.cc/media/PosterPDFs/ICLR%202023/11402.png?t=1681738449
 url_project:
 url_slides:
 url_source:
-url_video: "https://iclr.cc/virtual/2023/poster/11402"
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
