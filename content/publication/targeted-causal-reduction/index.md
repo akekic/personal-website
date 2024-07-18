@@ -49,12 +49,12 @@ links:
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2311.18639.pdf"
+url_pdf: "https://openreview.net/pdf?id=CFHpI53xmb"
 url_code: "https://github.com/akekic/targeted-causal-reduction"
 url_dataset:
 url_poster: "https://drive.google.com/file/d/1N28CAG-qg7PYh6FufrzNmNiVzb7BXhk7"
 url_project:
-url_slides:
+url_slides: "https://drive.google.com/file/d/1oem2nzPmprVXMoTkY44VMeSUBxYCgTBd"
 url_source:
 url_video:
 
