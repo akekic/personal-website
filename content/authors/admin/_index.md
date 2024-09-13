@@ -77,4 +77,6 @@ Prior to my PhD, I worked as an applied scientist at [Zalando](https://engineeri
 
 My academic background includes studies in physics and applied mathematics at Heidelberg, Oxford, and Paris, with a specific focus on {{< staticref "publication/bachelors-thesis/" "newtab" >}}theoretical quantum dynamics{{< /staticref >}} and {{< staticref "publication/masters-thesis-paper/" "newtab" >}}simulation methods{{< /staticref >}}.
 
+Looking for an advisor for your internship or thesis (BSc/MSc)? Feel free to [reach out](/#contact). I'd be glad to chat about how I might help.
+
 On this website, I share projects that I work on.
