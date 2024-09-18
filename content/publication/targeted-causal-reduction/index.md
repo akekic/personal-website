@@ -40,6 +40,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Talk
+  url: https://youtu.be/y2dk0TDivr0?si=sbhH4GmbNzIeAnEU&t=1385
+  icon_pack: fa
+  icon: video
 - name: Thread
   url: https://x.com/armin_kekic/status/1801544498071097385
   icon_pack: fab
