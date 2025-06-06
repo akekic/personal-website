@@ -22,7 +22,9 @@ design:
 ---
 
 <!-- - **Jul. 2024:** I am attending [UAI 2024](https://www.auai.org/uai2024/) in Barcelona and [ICML 2024](https://icml.cc/) in Vienna. Feel free to [contact](/#contact) me if you'd like to chat about causality in general or its applications to simulations, time series or representation learning. -->
-- **Sep 2024**: Our preprint on [estimating joint interventional distributions from marginal interventional data](publication/estimating-joint-interventional/) is now available on [arXiv](https://arxiv.org/abs/2409.01794).
+- **May 2025:** Our paper on [learning joint interventional effects from interventions on single variables](publication/learning-joint-interventional/) was accepted at [ICML 2025](https://icml.cc/Conferences/2025).
+- **Dec. 2024:** I am attending [NeurIPS 2024](https://neurips.cc/) in Vancouver. Feel free to [contact](/#contact) me if you'd like to chat about causality in general or its applications to simulations, time series or representation learning.
+- **Sep. 2024**: Our preprint on [estimating joint interventional distributions from marginal interventional data](publication/estimating-joint-interventional/) is now available on [arXiv](https://arxiv.org/abs/2409.01794).
 - **May 2024:** Our paper on [Tageted Reduction of Causal Models](publication/targeted-causal-reduction/) was accepted as an oral at [UAI 2024](https://www.auai.org/uai2024/).
 - **Mar. 2024:** Our paper on [Tageted Reduction of Causal Models](publication/targeted-causal-reduction/) was accepted at the [AI4DifferentialEquations workshop](https://ai4diffeqtnsinsci.github.io/) at [ICLR 2024](https://iclr.cc/Conferences/2024).
 - **Sep. 2023:** Our papers on [Causal Component Analysis](publication/causal-component-analysis/) and [multi-environment causal representation learning](publication/nonparametric-identifiability-of/) were accepted at [NeurIPS 2023](https://neurips.cc/Conferences/2023).
