@@ -1,33 +1,39 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Learning Joint Interventional Effects from Single-Variable Interventions in Additive Models"
+title: "Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies"
 authors: 
   - admin
-  - Sergio Hernan Garrido Mejia
+  - Jan Schneider
+  - Dieter Büchler
   - Bernhard Schölkopf
+  - Michele Besserve
 
 # Author notes (optional)
 author_notes:
   - 
+  - 
+  - 
+  - 'Shared last author'
+  - 'Shared last author'
 
-date: 2025-07-20T12:00:00+01:00
+date: 2025-07-21T12:00:00+01:00
 doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-06-05T12:00:00+01:00
+publishDate: 2025-07-23T12:00:00+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Machine Learning"
-publication_short: "ICML"
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: "Estimating causal effects of joint interventions on multiple variables is crucial in many domains, but obtaining data from such simultaneous interventions can be challenging. Our study explores how to learn joint interventional effects using only observational data and single-variable interventions. We present an identifiability result for this problem, showing that for a class of nonlinear additive outcome mechanisms, joint effects can be inferred without access to joint interventional data. We propose a practical estimator that decomposes the causal effect into confounded and unconfounded contributions for each intervention variable. Experiments on synthetic data demonstrate that our method achieves performance comparable to models trained directly on joint interventional data, outperforming a purely observational estimator."
+abstract: "Why do reinforcement learning (RL) policies fail or succeed? This is a challenging question due to the complex, high-dimensional nature of agent-environment interactions. In this work, we take a causal perspective on explaining the behavior of RL policies by viewing the states, actions, and rewards as variables in a low-level causal model. We introduce random perturbations to policy actions during execution and observe their effects on the cumulative reward, learning a simplified high-level causal model that explains these relationships. To this end, we develop a nonlinear Causal Model Reduction framework that ensures approximate interventional consistency, meaning the simplified high-level model responds to interventions in a similar way as the original complex system. We prove that for a class of nonlinear causal models, there exists a unique solution that achieves exact interventional consistency, ensuring learned explanations reflect meaningful causal patterns. Experiments on both synthetic causal models and practical RL tasks-including pendulum control and robot table tennis-demonstrate that our approach can uncover important behavioral patterns, biases, and failure modes in trained RL policies."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -44,14 +50,14 @@ links:
 #   icon_pack: fab
 #   icon: twitter
 - name: arXiv
-  url: https://arxiv.org/abs/2506.04945
+  url: https://arxiv.org/abs/2507.14901
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2506.04945"
-url_code: "https://github.com/akekic/intervention-generalization"
+url_pdf: "https://arxiv.org/pdf/2507.14901"
+url_code:
 url_dataset:
-url_poster: "https://drive.google.com/file/d/1YJyIYqhO5xXZXwXIJ19dEYIuDQCATKbL"
+url_poster:
 url_project:
 url_slides:
 url_source:
