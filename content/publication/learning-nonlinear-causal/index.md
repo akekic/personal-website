@@ -57,9 +57,9 @@ links:
 url_pdf: "https://arxiv.org/pdf/2507.14901"
 url_code:
 url_dataset:
-url_poster:
+url_poster: "https://drive.google.com/file/d/1bgAfH8_Zt1g1uo5WnlM2kTQkbBIT3pPy/view?usp=sharing"
 url_project:
-url_slides:
+url_slides: "https://drive.google.com/file/d/1T9R3bvFmnGBxlCj61PyJCfM9R8yGziIz/view?usp=sharing"
 url_source:
 url_video:
 

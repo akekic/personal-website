@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Machine Learning
+    institution: Max Planck Institute for Intelligent Systems
+    year: ongoing
   - course: MSc in Applied Mathematics
     institution: University of Oxford
     year: 2016

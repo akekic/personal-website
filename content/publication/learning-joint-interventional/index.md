@@ -48,7 +48,7 @@ links:
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://arxiv.org/pdf/2506.04945"
+url_pdf: "https://openreview.net/pdf?id=i0m3hToUwf"
 url_code: "https://github.com/akekic/intervention-generalization"
 url_dataset:
 url_poster: "https://drive.google.com/file/d/1YJyIYqhO5xXZXwXIJ19dEYIuDQCATKbL"

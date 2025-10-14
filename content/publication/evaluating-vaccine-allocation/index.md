@@ -63,7 +63,7 @@ links:
   icon_pack: ai
   icon: arxiv
 
-url_pdf: "https://www.cell.com/patterns/pdf/S2666-3899(23)00079-X.pdf"
+url_pdf: "https://www.cell.com/patterns/pdfExtended/S2666-3899(23)00079-X"
 url_code: "https://github.com/akekic/covid-vaccine-evaluation"
 url_dataset:
 url_poster: "https://drive.google.com/file/d/1qIV6E4SNbHYZct3ER0OtLFwL7jtFGDXV/view?usp=sharing"
