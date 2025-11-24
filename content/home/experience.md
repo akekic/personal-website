@@ -31,15 +31,6 @@ experience:
     description: |2-
         My main interest lies in developing methods for causal representation learning in realistic scenarios. I am a member of the [Empirical Inference Department](https://ei.is.mpg.de) supervised by [Bernhard Schölkopf](https://ei.is.mpg.de/person/bs).
 
-  - title: Qunatitative Research Intern
-    company: Jane Street
-    company_url: 'https://www.janestreet.com/'
-    location: London, United Kingdom
-    date_start: '2025-07-07'
-    date_end: '2025-09-12'
-    description: |2-
-        I worked on research projects at the intersection of machine learning, statistics, and quantitative trading. The internship involved analyzing large datasets, building and testing models, and collaborating with quant researchers to develop machine learning approaches to problems in finance.
-
   - title: Applied Scientist (Algorithmic Pricing)
     company: Zalando SE
     company_url: 'https://engineering.zalando.com/'
