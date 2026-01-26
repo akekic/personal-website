@@ -22,7 +22,8 @@ design:
 ---
 
 <!-- - **Jul. 2024:** I am attending [UAI 2024](https://www.auai.org/uai2024/) in Barcelona and [ICML 2024](https://icml.cc/) in Vienna. Feel free to [contact](/#contact) me if you'd like to chat about causality in general or its applications to simulations, time series or representation learning. -->
-- **Jul. 2025:** We won the **best paper award** for [Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies](publication/learning-nonlinear-causal/)  at the [Workshop on Causal Abstractions and Representations](https://sites.google.com/view/car-25/home) at [UAI 2025](https://www.auai.org/uai2025/).
+- **Jan. 2026:** Our paper on [Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies](publication/learning-nonlinear-causal/) was accepted at [ICLR 2026](https://iclr.cc/Conferences/2026).
+- **Jul. 2025:** We won the **Best Paper Award** for [Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies](publication/learning-nonlinear-causal/)  at the [Workshop on Causal Abstractions and Representations](https://sites.google.com/view/car-25/home) at [UAI 2025](https://www.auai.org/uai2025/).
 - **May 2025:** Our paper on [learning joint interventional effects from interventions on single variables](publication/learning-joint-interventional/) was accepted at [ICML 2025](https://icml.cc/Conferences/2025).
 - **Dec. 2024:** I am attending [NeurIPS 2024](https://neurips.cc/) in Vancouver. Feel free to [contact](/#contact) me if you'd like to chat about causality in general or its applications to simulations, time series or representation learning.
 - **Sep. 2024**: Our preprint on [estimating joint interventional distributions from marginal interventional data](publication/estimating-joint-interventional/) is now available on [arXiv](https://arxiv.org/abs/2409.01794).
